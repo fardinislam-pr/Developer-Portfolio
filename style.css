@@ -1,3 +1,24 @@
-h1{
-    font-size: xx-large;
+/* nev style */
+nav{
+    display: flex;
+}
+.ornage{
+    color: #FD6E0A;
+    /* font-size: 50px; */
+}
+nav>ul{
+    display: flex;
+}
+nav li{
+    list-style: none;
+    margin-right: 50px;
+}
+nav a{
+    text-decoration: none;
+    color: #474747;
+}
+.btn-primary{
+    background: #FD6E0A;
+    border-radius: 5px;
+    border: none;
 }
